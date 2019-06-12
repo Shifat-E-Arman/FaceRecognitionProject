@@ -1,0 +1,6 @@
+=== Confusion Matrix ===
+
+      a      b   <-- classified as
+ 677289      0 |      a = false
+  52076      0 |      b = true
+
